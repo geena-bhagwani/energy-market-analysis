@@ -111,4 +111,4 @@ energy_market_analysis.ipynb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/energy-market-analysis.git
+   git clone https://github.com/geena-bhagwani/energy-market-analysis.git
